@@ -23,7 +23,7 @@ int main(void)
 					putchar(tens);
 					putchar(ones);
 					putchar(' ');
-					putchart(t);
+					putchar(t);
 					putchar(o);
 
 					if (!((tens == '9' && ones == '8') &&
