@@ -4,8 +4,6 @@
  *
  * Return: void
  *
- * Return: void
- *
  */
 void times_table(void)
 {
