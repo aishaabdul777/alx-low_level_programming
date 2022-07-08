@@ -5,4 +5,4 @@
 
 int positive_or_negative(void)
 
-#endif
+#endif /* MAIN_H */
